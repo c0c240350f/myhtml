@@ -4,8 +4,12 @@ html{
 }
 h1{
     font-size:2rem;
-    text-align: center;    
+    text-align: center;
+    background-color:green;
+    color:blue;
 }
 h2{
     font-size:1.5rem;
+    background-color:green;
+    color:blue;
 }
